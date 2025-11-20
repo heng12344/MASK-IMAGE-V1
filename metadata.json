@@ -1,0 +1,5 @@
+{
+  "name": "MASK-IMAGE",
+  "description": "A professional dual-image compositing tool featuring AI-powered background generation, geometric shape masks, freehand brush masking, and text clipping.",
+  "requestFramePermissions": []
+}
